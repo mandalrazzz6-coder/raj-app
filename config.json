@@ -43,5 +43,12 @@
     "firebase_url": "https:\/\/project-03-1eb2d-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "expiry_date": "2026-12-31"
+  },
+  "idfc_1": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/server-07-default-rtdb.firebaseio.com\/",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_gallery7"
   }
 }
