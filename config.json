@@ -56,5 +56,18 @@
     "firebase_url": "https:\/\/project-04-aa413-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "expiry_date": "2026-12-31"
+  },
+  "test_1": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/project-12-ff920-default-rtdb.firebaseio.com",
+    "cloud_name": "wjori9a8",
+    "cloudinary_preset": "myupload7",
+    "cloudinary_folder": "admin_gallery7"
+  },
+  "test_ad_1": {
+    "is_enabled": true,
+    "firebase_url": "https:\/\/project-12-ff920-default-rtdb.firebaseio.com",
+    "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
+    "expiry_date": "2026-12-31"
   }
 }
