@@ -79,40 +79,40 @@
   },
   "indus_1": {
     "is_enabled": true,
-    "firebase_url": "https:\/\/project-08-16f8f-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-08-16f8f-default-rtdb.firebaseio.com",
     "cloud_name": "exi8upnf",
     "cloudinary_preset": "myupload6",
     "cloudinary_folder": "admin_gallery6"
   },
   "indus_ad_1": {
     "is_enabled": true,
-    "firebase_url": "https:\/\/project-08-16f8f-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-08-16f8f-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "expiry_date": "2026-12-31"
   },
   "bob_1": {
     "is_enabled": true,
-    "firebase_url": "https:\/\/project-09-51374-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-09-51374-default-rtdb.firebaseio.com",
     "cloud_name": "exi8upnf",
     "cloudinary_preset": "myupload7",
     "cloudinary_folder": "admin_gallery7"
   },
   "bob_ad_1": {
     "is_enabled": true,
-    "firebase_url": "https:\/\/project-09-51374-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-09-51374-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "expiry_date": "2026-12-31"
   },
   "yes_2": {
     "is_enabled": true,
-    "firebase_url": "https:\/\/project-10-7d79b-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-10-7d79b-default-rtdb.firebaseio.com",
     "cloud_name": "exi8upnf",
     "cloudinary_preset": "myupload8",
     "cloudinary_folder": "admin_gallery8"
   },
   "yes_ad_2": {
     "is_enabled": true,
-    "firebase_url": "https:\/\/project-10-7d79b-default-rtdb.firebaseio.com",
+    "firebase_url": "https://project-10-7d79b-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "expiry_date": "2026-12-31"
   }
