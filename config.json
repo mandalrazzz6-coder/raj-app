@@ -46,7 +46,7 @@
   "yes_1": {
     "is_enabled": true,
     "expiry_date": "2030-12-31",
-    "firebase_url": "https://project-03-1eb2d-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-03-1eb2d-default-rtdb.firebaseio.com",
     "script_url": "",
     "notice_id": "",
     "notice_title": "",
@@ -57,7 +57,7 @@
   "yes_ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-03-1eb2d-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-03-1eb2d-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "notice_id": "",
     "notice_title": "",
@@ -90,7 +90,7 @@
   "test_1": {
     "is_enabled": true,
     "expiry_date": "2030-12-31",
-    "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-12-ff920-default-rtdb.firebaseio.com",
     "script_url": "",
     "notice_id": "",
     "notice_title": "",
@@ -101,7 +101,7 @@
   "test_ad_1": {
     "is_enabled": true,
     "expiry_date": "2026-12-31",
-    "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
+    "firebase_url": "https:\/\/project-12-ff920-default-rtdb.firebaseio.com",
     "script_url": "https:\/\/script.google.com\/macros\/s\/exec",
     "notice_id": "notice_002",
     "notice_title": "developer ka message",
@@ -220,7 +220,7 @@
     "action_btn_url": ""
   },
   "global_notice": {
-    "notice_id": "master_002",
+    "notice_id": "master_003",
     "notice_title": "📢 Master Notice For All Admins",
     "notice_msg": "Server Upgrade Complete for All Panels! ✅",
     "action_btn_text": "Join Official Channel",
