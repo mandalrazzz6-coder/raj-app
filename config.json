@@ -144,7 +144,7 @@
     "api_secret": ""
   },
   "test_ad_1": {
-    "is_enabled": false,
+    "is_enabled": true,
     "expiry_date": "15day",
     "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
