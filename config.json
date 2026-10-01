@@ -30,5 +30,13 @@
     "cloud_name": "xidbvt0y",
     "cloudinary_preset": "myupload11",
     "cloudinary_folder": "folder11"
+  },
+  "app_4": {
+    "is_enabled": true,
+    "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   }
 }
