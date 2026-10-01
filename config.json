@@ -11,8 +11,8 @@
     "is_enabled": true,
     "firebase_url": "https://rand-1-95719-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "cloud_name": "xidbvt0y",
+    "cloudinary_preset": "myupload9",
+    "cloudinary_folder": "folder9"
   }
 }
