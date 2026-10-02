@@ -31,28 +31,20 @@
     "cloudinary_preset": "myupload11",
     "cloudinary_folder": "folder11"
   },
-  "test_ad_1": {
-    "is_enabled": true,
-    "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
-    "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
-  },
   "test_1": {
     "is_enabled": true,
     "firebase_url": "https://project-12-ff920-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "cloud_name": "xidbvt0y",
+    "cloudinary_preset": "myupload12",
+    "cloudinary_folder": "folder12"
   },
   "app_4": {
     "is_enabled": true,
     "firebase_url": "https://project-11-2a649-default-rtdb.firebaseio.com/",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "cloud_name": "xidbvt0y",
+    "cloudinary_preset": "myupload12",
+    "cloudinary_folder": "folder13"
   }
 }
