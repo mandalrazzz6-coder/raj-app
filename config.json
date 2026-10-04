@@ -62,5 +62,13 @@
     "cloud_name": "exi8upnf",
     "cloudinary_preset": "myupload15",
     "cloudinary_folder": "folder15"
+  },
+  "app_7": {
+    "is_enabled": true,
+    "firebase_url": "https://project-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   }
 }
