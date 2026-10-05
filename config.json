@@ -126,5 +126,13 @@
     "cloud_name": "l8kuwrpb",
     "cloudinary_preset": "myupload23",
     "cloudinary_folder": "folder23"
+  },
+  "app_15": {
+    "is_enabled": true,
+    "firebase_url": "https://application-15-be79a-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "l8kuwrpb",
+    "cloudinary_preset": "myupload25",
+    "cloudinary_folder": "folder25"
   }
 }
