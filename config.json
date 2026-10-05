@@ -70,5 +70,13 @@
     "cloud_name": "mxlcajgs",
     "cloudinary_preset": "myupload16",
     "cloudinary_folder": "folder16"
+  },
+  "app_8": {
+    "is_enabled": true,
+    "firebase_url": "https://application-8-1b3a5-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "mxlcajgs",
+    "cloudinary_preset": "myupload17",
+    "cloudinary_folder": "folder17"
   }
 }
