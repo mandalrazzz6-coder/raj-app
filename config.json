@@ -113,11 +113,11 @@
   },
   "app_14": {
     "is_enabled": true,
-    "firebase_url": "https://application-14-1f2bb-default-rtdb.firebaseio.com",
+    "firebase_url": "https://apple-14-386d3-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "l8kuwrpb",
-    "cloudinary_preset": "myupload23",
-    "cloudinary_folder": "folder23"
+    "cloud_name": "qvii6yg1",
+    "cloudinary_preset": "myupload15",
+    "cloudinary_folder": "folder15"
   },
   "test_ad_1": {
     "is_enabled": true,
@@ -126,5 +126,13 @@
     "cloud_name": "l8kuwrpb",
     "cloudinary_preset": "myupload25",
     "cloudinary_folder": "folder25"
+  },
+  "app_15": {
+    "is_enabled": true,
+    "firebase_url": "https://apple-15-be8e2-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "qvii6yg1",
+    "cloudinary_preset": "myupload16",
+    "cloudinary_folder": "folder16"
   }
 }
