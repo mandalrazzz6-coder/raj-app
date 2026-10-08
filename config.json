@@ -137,10 +137,10 @@
   },
   "app_16": {
     "is_enabled": true,
-    "firebase_url": "https://project-default-rtdb.firebaseio.com",
+    "firebase_url": "https://apple-16-cff39-default-rtdb.firebaseio.com/",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "cloud_name": "qvii6yg1",
+    "cloudinary_preset": "myupload17",
+    "cloudinary_folder": "folder17"
   }
 }
