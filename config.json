@@ -145,7 +145,7 @@
   },
   "app_17": {
     "is_enabled": true,
-    "firebase_url": "https://app-1-8c23d-default-rtdb.firebaseio.com/",
+    "firebase_url": "https://app-1-8c23d-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
     "cloud_name": "",
     "cloudinary_preset": "",
