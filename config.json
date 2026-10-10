@@ -9,35 +9,35 @@
   },
   "app_1": {
     "is_enabled": true,
-    "firebase_url": "https://apple-1-45dea-default-rtdb.firebaseio.com",
+    "firebase_url": "https://cyber-1-bfb8a-default-rtdb.firebaseio.com/",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "nc4wccvs",
-    "cloudinary_preset": "myupload2",
-    "cloudinary_folder": "folder2"
+    "cloud_name": "w4mey3qx",
+    "cloudinary_preset": "myupload1",
+    "cloudinary_folder": "folder1"
   },
   "app_2": {
     "is_enabled": true,
-    "firebase_url": "https://apple-2-1ea8b-default-rtdb.firebaseio.com",
+    "firebase_url": "https://cyber-2-8d6dd-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "nc4wccvs",
-    "cloudinary_preset": "myupload3",
-    "cloudinary_folder": "folder3"
+    "cloud_name": "w4mey3qx",
+    "cloudinary_preset": "myupload2",
+    "cloudinary_folder": "folder2"
   },
   "app_3": {
     "is_enabled": true,
-    "firebase_url": "https://apple-3-fdc4d-default-rtdb.firebaseio.com",
+    "firebase_url": "https://cyber-3-fe0c4-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "da6vd80s",
-    "cloudinary_preset": "myupload4",
-    "cloudinary_folder": "folder4"
+    "cloud_name": "w4mey3qx",
+    "cloudinary_preset": "myupload3",
+    "cloudinary_folder": "folder3"
   },
   "app_4": {
     "is_enabled": true,
-    "firebase_url": "https://apple-4-510f2-default-rtdb.firebaseio.com/",
+    "firebase_url": "https://cyber-4-4d6ad-default-rtdb.firebaseio.com",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "da6vd80s",
-    "cloudinary_preset": "myupload5",
-    "cloudinary_folder": "folder5"
+    "cloud_name": "w4mey3qx",
+    "cloudinary_preset": "myupload4",
+    "cloudinary_folder": "folder4"
   },
   "app_5": {
     "is_enabled": true,
