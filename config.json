@@ -206,5 +206,29 @@
     "cloud_name": "hevvrilw",
     "cloudinary_preset": "myupload5",
     "cloudinary_folder": "folder5"
+  },
+  "app_25": {
+    "is_enabled": true,
+    "firebase_url": "https://project-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
+  },
+  "app_26": {
+    "is_enabled": true,
+    "firebase_url": "https://project-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
+  },
+  "app_27": {
+    "is_enabled": true,
+    "firebase_url": "https://project-default-rtdb.firebaseio.com",
+    "script_url": "https://script.google.com/macros/s/exec",
+    "cloud_name": "",
+    "cloudinary_preset": "",
+    "cloudinary_folder": ""
   }
 }
