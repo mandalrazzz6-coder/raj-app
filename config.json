@@ -243,8 +243,8 @@
     "is_enabled": true,
     "firebase_url": "https://randi-9-default-rtdb.firebaseio.com/",
     "script_url": "https://script.google.com/macros/s/exec",
-    "cloud_name": "",
-    "cloudinary_preset": "",
-    "cloudinary_folder": ""
+    "cloud_name": "v7mb3tzl",
+    "cloudinary_preset": "myupload10",
+    "cloudinary_folder": "folder10"
   }
 }
